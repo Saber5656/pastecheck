@@ -196,7 +196,7 @@ PC502の各文字がU+007F超であることをfixture lintで確認し、all-no
 
 このaddendumは設計・受入契約の記録であり、実装または検証の完了を意味しない。実装後にrepository所定のfull validationと必要なsecurity/QA gateを実施する。
 
-## Thread PRRT_kwDOTN3-aM6PBMgK
+## Thread PRRT_kwDOTN3-aM6PBMgG
 
 ### Exclude PC104 line breaks from residual control findings
 
@@ -212,7 +212,7 @@ VT、FF、NEL、通常改行、その他のC0/C1 controlを各々入力し、PC1
 
 このaddendumは設計・受入契約の記録であり、実装または検証の完了を意味しない。実装後にrepository所定のfull validationと必要なsecurity/QA gateを実施する。
 
-## Thread PRRT_kwDOTN3-aM6PBMgN
+## Thread PRRT_kwDOTN3-aM6PBMgK
 
 ### Merge downloaded artifacts before checksumming
 
